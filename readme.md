@@ -1,4 +1,4 @@
-** Cakephp Addresses Plugin **
+## Cakephp Addresses Plugin ##
 
 The Addresses plugin is a building-block plugin that should be the de-facto standard for address data. This plugin
 requires the states plugin, also available on gitub.
